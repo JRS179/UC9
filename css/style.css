@@ -1,4 +1,4 @@
-/* CSS */
+/* CSS Banner */
 .menu_top {
     width: 100%;
     height: 80px;
@@ -78,4 +78,31 @@
     font-size: 18px;
     font-weight: bold;
     margin: 30px;
+}
+/* CSS Novidades*/
+.novidades{
+background-color: #082373;
+padding: 50px;
+}
+.novidades .text-body{
+width: 80%;
+margin: 70px auto;
+}
+.novidades .h2{
+font-size: 26px;
+}
+.novidades p{
+   /* width: 77%;
+    text-align: justify;
+    font-size: 26px;
+    margin: 30px auto; */
+    color: #fff;   
+}
+.novidaes a{
+    color: #000;
+    text-decoration: none;
+    padding: 6px 12px;
+    background-color: #fff;
+    font-weight: 400;
+
 }
