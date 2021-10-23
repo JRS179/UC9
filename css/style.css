@@ -140,6 +140,10 @@ margin: 14px auto 50px;
     display: inline-block;
 }
 .rodape .redes-sociais img{
- text-align: center;
- margin-top: 40px;
+    width: 45px;
+    height: 40px;
+}
+.rodape p.direitos{
+    text-align: center;
+    margin-top: 40px;
 }
